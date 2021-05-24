@@ -2,7 +2,7 @@
 <playlist version="1" xmlns="http://xspf.org/ns/0/">
    <trackList>
       <track>
-         <title>YouTube: Batman</title>
+         <title>TVE1</title>
          <location>https://rtvelivestream.akamaized.net/la1_main_dvr_1080.m3u8</location>
       </track>
       <track>
