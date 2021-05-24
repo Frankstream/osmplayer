@@ -2,8 +2,8 @@
 <playlist version="1" xmlns="http://xspf.org/ns/0/">
    <trackList>
       <track>
-         <title>TVE1</title>
-         <location>https://rtvelivestream.akamaized.net/la1_main_dvr_1080.m3u8</location>
+         <title>TVE</title>
+         <location>http://www.youtube.com/watch?v=g8evyE9TuYk</location>
       </track>
       <track>
         <title>Vimeo: Kuroshio Sea</title>
